@@ -1,0 +1,11 @@
+C:\Users\hkesk\source\repos\DERSLER\FormDerslerş\Bilgi_Yarışması\bin\Debug\Bilgi_Yarışması.exe.config
+C:\Users\hkesk\source\repos\DERSLER\FormDerslerş\Bilgi_Yarışması\bin\Debug\Bilgi_Yarışması.exe
+C:\Users\hkesk\source\repos\DERSLER\FormDerslerş\Bilgi_Yarışması\bin\Debug\Bilgi_Yarışması.pdb
+C:\Users\hkesk\source\repos\DERSLER\FormDerslerş\Bilgi_Yarışması\obj\Debug\Bilgi_Yarışması.csproj.AssemblyReference.cache
+C:\Users\hkesk\source\repos\DERSLER\FormDerslerş\Bilgi_Yarışması\obj\Debug\Bilgi_Yarışması.csproj.SuggestedBindingRedirects.cache
+C:\Users\hkesk\source\repos\DERSLER\FormDerslerş\Bilgi_Yarışması\obj\Debug\Bilgi_Yarışması.Form1.resources
+C:\Users\hkesk\source\repos\DERSLER\FormDerslerş\Bilgi_Yarışması\obj\Debug\Bilgi_Yarışması.Properties.Resources.resources
+C:\Users\hkesk\source\repos\DERSLER\FormDerslerş\Bilgi_Yarışması\obj\Debug\Bilgi_Yarışması.csproj.GenerateResource.cache
+C:\Users\hkesk\source\repos\DERSLER\FormDerslerş\Bilgi_Yarışması\obj\Debug\Bilgi_Yarışması.csproj.CoreCompileInputs.cache
+C:\Users\hkesk\source\repos\DERSLER\FormDerslerş\Bilgi_Yarışması\obj\Debug\Bilgi_Yarışması.exe
+C:\Users\hkesk\source\repos\DERSLER\FormDerslerş\Bilgi_Yarışması\obj\Debug\Bilgi_Yarışması.pdb
